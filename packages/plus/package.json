@@ -1,0 +1,8 @@
+{
+  "name": "plus",
+  "version": "0.0.1",
+  "dependencies": {
+    "core": "^0.0.1",
+    "mime": "^2.2.0"
+  }
+}
